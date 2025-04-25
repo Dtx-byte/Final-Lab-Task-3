@@ -1,4 +1,5 @@
-# [Finals-Lab-Task-3](https://github.com/user-attachments/files/19715523/Soguilon.Carl.Asnef.B.FINALS3.EDM.SQL.docx)
+[←𝗚𝗼 𝗕𝗮𝗰𝗸](https://dtx-byte.github.io/Dxt_EDMPortfolio/)
+# [Finals-Lab-Task-3](https://github.com/Dtx-byte/Final-Lab-Task-3/blob/main/Images/Dexter_FLT3.docx)
 - This portfolio is about learning MySQL by creating and managing a product database. It includes simple tasks like making a table, adding rules, inserting correct data, and changing a field. The goal is to understand how to build and organize a database using basic SQL.
 
 # Step by Step Process:
@@ -29,17 +30,17 @@
 # Screenshots
 ## Query Statements
 ### 1. Task 1
-- ![Image](https://github.com/user-attachments/assets/a74d8293-47c5-4699-aa4d-6ef429b1ed3f)
+- ![screenshot](Images/Task1_C.png)
 ### 2. Task 2
-- ![Image](https://github.com/user-attachments/assets/a87d5907-9db1-460a-b23b-d118e860340f)
+- ![screenshot](Images/Task2_C.png)
 ### 3. Task 3
-- ![Image](https://github.com/user-attachments/assets/6c4da79d-d849-47ad-8fc4-897c0cd81174)
+- ![screenshot](Images/Task3_C.png)
 ### 4. Task 4
-- ![Image](https://github.com/user-attachments/assets/55206384-6b19-4fd5-a520-d1513baccb5f)
+- ![screenshot](Images/Task4_C.png)
 
 # Table Structure
-- ![Image](https://github.com/user-attachments/assets/8cd141f7-1c83-439c-8da2-e7ad587b562f)
-- ![Image](https://github.com/user-attachments/assets/a843ccfc-5112-4f64-b091-e1d84a3d89d1)
+- ![screenshot](Images/Task1-2_TS.png)
+- ![screenshot](Images/Task3-4_TS.png)
 
 # ER Diagram
-- ![Image](https://github.com/user-attachments/assets/ac377255-d962-4ec8-ae05-a7c3f3866377)
+- ![screenshot](Images/Task_EERD.png)
